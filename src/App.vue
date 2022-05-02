@@ -1,18 +1,26 @@
 <template>
-    <nav-bar msg="Welcome to Your Vue.js App"/>
+ <div>
+    <nav-bar/>
+    <presentacion/>
+    <sede/>
+    <contacto/>
+ </div>
 </template>
 
 <script>
-import NavBar from './components/NavBar'
-import HelloWorld from './components/HelloWorld'
 
+import NavBar from './components/NavBar'
+import Presentacion from './components/Presentacion.vue'
+import Sede from './components/Sede.vue'
+import Contacto from './components/Contacto.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld,
-    NavBar
-   
+    NavBar,
+    Presentacion,
+    Sede,
+    Contacto,
   }
 }
 </script>
@@ -27,10 +35,10 @@ export default {
   margin-top: 60px;
   background-color: black
 }
-html, body {
+/*html, body {
     margin: 0;
     padding: 0;
     background-color:rgb(162, 148, 148);
-}
+}*/
 
 </style>
