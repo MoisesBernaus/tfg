@@ -1,26 +1,28 @@
 <template>
-  <b-navbar toggleable="md" type="dark" variant="info">
-    <b-navbar-brand>CreARTive</b-navbar-brand>
+<div>
+  <b-row>
+    <b-button-group>
+      <b-button size="lg" variant="success">Mostrar web accesible</b-button>
+      <b-button size="lg" variant="danger">Mostrar web no accesible</b-button>
+    </b-button-group>
+  </b-row>
+  <b-navbar toggleable="md" type="dark" variant="dark">
+    <b-navbar-brand>LOGO</b-navbar-brand>
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
       <b-container>
         <b-collapse id="nav-collapse" is-nav>
+          <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
           <b-navbar-nav>
-            <!--
-            <b-nav-item :to="{name: 'home'}" exact>Home</b-nav-item>
-            <b-nav-item :to="{name: 'contacto'}">Contacto</b-nav-item>
-           -->
-            <b-nav-item class="nav-link" to="/home">Home</b-nav-item>
-            <b-nav-item class="nav-link" to="/listaproyectos">ListaProyectos</b-nav-item>
-            <b-nav-item class="nav-link" to="/addpersonas">AddPersonas</b-nav-item>
-            <b-nav-item class="nav-link" to="/tabla">VerTabla</b-nav-item>
-            <b-nav-item class="nav-link" to="/otrapagina">OtraPagina</b-nav-item>
-            <b-nav-item class="nav-link" to="/about">About</b-nav-item>
+            <b-nav-item class="nav-link" to="/presentacion">Presentación</b-nav-item>
+            <b-nav-item class="nav-link" to="/sede">Sede</b-nav-item>
+            <b-nav-item class="nav-link" to="/contacto">Contacto</b-nav-item>
           </b-navbar-nav>
+          </ul>
         </b-collapse>
       </b-container>
   </b-navbar>
+  </div>
 </template>
-
 
 <script>
 export default {
@@ -28,8 +30,9 @@ export default {
 </script>
 
 
-<style scoped>
+<style>
 .router-link-exact-active, .router-link-active {
   background-color: rgb(0, 0, 0);
 }
+
 </style>
