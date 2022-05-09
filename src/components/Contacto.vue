@@ -1,5 +1,5 @@
 <template>
-  <div class="txts">
+  <div class="txt3">
     <h1>Contacto</h1>
     <b-form @submit="onSubmit" @reset="onReset" v-if="show">
       <b-form-group
@@ -62,10 +62,12 @@
 </script>
 
 <style>
-.txts {
+.txt3 {
+    margin-top: 4%;
     margin-left: 25%;
     text-align: center;
     width: 50%;
+    height: 200px;
 
 }
 </style>
