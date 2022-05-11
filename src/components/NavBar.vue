@@ -2,7 +2,7 @@
 <div class="txt">
   <b-row>
     <b-button-group>
-      <b-button size="lg" variant="success">Mostrar web accesible</b-button>
+      <b-button @click="()=>$router.push('/')" size="lg" variant="success">Mostrar web accesible</b-button>
       <b-button @click="()=>$router.push('about')"  size="lg" variant="danger">Mostrar web no accesible</b-button>
     </b-button-group>
   </b-row>

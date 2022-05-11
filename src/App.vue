@@ -1,26 +1,18 @@
 <template>
- <div>
+  <div>
     <nav-bar/>
-    <presentacion/>
-    <sede/>
-    <contacto/>
+    <router-view/>
  </div>
 </template>
 
 <script>
-
-import NavBar from './components/NavBar'
-import Presentacion from './components/Presentacion.vue'
-import Sede from './components/Sede.vue'
-import Contacto from './components/Contacto.vue'
+import NavBar from './components/NavBar.vue'
 
 export default {
   name: 'App',
   components: {
     NavBar,
-    Presentacion,
-    Sede,
-    Contacto,
+ 
   }
 }
 </script>

@@ -1,20 +1,22 @@
 <template>
- <div>
-    <nav-bar/>
+  <div>
     <presentacion/>
-    <h1>Bienvenido a la web accesible</h1>
+    <sede/>
+    <contacto/>
  </div>
 </template>
 
 <script>
-import NavBar from './components/NavBar'
-import Presentacion from './components/Presentacion.vue'
+import Presentacion from '../components/Presentacion.vue'
+import Sede from '../components/Sede.vue'
+import Contacto from '../components/Contacto.vue'
 
 export default {
-  name: 'App',
+  name: 'AboutView',
   components: {
-    NavBar,
-    Presentacion
+    Presentacion,
+    Sede,
+    Contacto
   }
 }
 </script>
@@ -36,4 +38,3 @@ export default {
 }*/
 
 </style>
-
