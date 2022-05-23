@@ -25,7 +25,7 @@ const routes = [
 
 const router = new VueRouter({
   mode: 'history',
-  path: '/interaccion2023/',
+  path: '/tfg/',
   routes
 })
 
