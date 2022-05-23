@@ -14,18 +14,13 @@ const routes = [
     path: '/about',
     name: 'about',
     component: () => import(/* webpackChunkName: "about" */ '../views/AboutView.vue')
-  },
+  }
 
-  {
-    path: '/listaproyectos',
-    name: 'ListaProyectos',
-    component: () => import ( /* webpackChunkName: "ListaProyectos" */ '../views/ListaProyectos.vue')
-}
 ]
 
 const router = new VueRouter({
   mode: 'history',
-  path: '/tfg/',
+  path: '/interaccion2023/',
   routes
 })
 
