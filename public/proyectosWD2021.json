@@ -1,0 +1,33 @@
+[{
+    "id": 1,
+    "titulo": "Imágenes sin texto alternativo",
+    "visual_nombre": "Cesar Cerezo",
+    "srcimg": "https://w7.pngwing.com/pngs/981/574/png-transparent-web-accessibility-initiative-computer-icons-world-wide-web-trademark-logo-sign.png",
+    "alt": "Texto alternativo de la imágen",
+    "visual_subtitulo": "Cesar cerezo tiene problemas con las imágenes",
+    "visual_emocion":"Irritado",
+    "visual_comentario": "No entiendo que hay en las imágenes"
+},
+
+{
+"id": 2,
+"titulo": "Imágenes sin texto alternativo",
+"visual_nombre": "Cesar Cerezo",
+"srcimg": "https://w7.pngwing.com/pngs/981/574/png-transparent-web-accessibility-initiative-computer-icons-world-wide-web-trademark-logo-sign.png",
+"alt": "Texto alternativo de la imágen",
+"visual_subtitulo": "Cesar cerezo tiene problemas con las imágenes",
+"visual_emocion":"Irritado",
+"visual_comentario": "No entiendo que hay en las imágenes",
+"visual_comentario_explicado": "Las imágenes no tienen descripción",
+"bajavision_id": 1,
+"bajavision_titulo": "xxxx",
+"bajavision_nombre": "xxxx",
+"bajavision_subtitulo": "xxxx",
+"bajavision_emocion": "xxxx",
+"bajavision_comentario": "xxxx",
+"sugerencia": "Si se añade una imagen importante en el conenido, si no se encuentra la misma información de forma textual, es necesario añadir  una descripción que explique qué contiene la imagen. Como si alguien las explicara por telefono a otra persona.",
+"pautas_WCAG": "xxxx",
+"pautas_WCAG_enlace": "https://www.w3.org/WAI/WCAG21/Understanding/non-text-content.html"
+}
+
+]
