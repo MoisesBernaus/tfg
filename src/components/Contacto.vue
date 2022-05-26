@@ -23,8 +23,9 @@
           placeholder="Nombre"
           required
         ></b-form-input>
+        <p></p> 
       </b-form-group>
-      <b-button type="submit" variant="primary">Enviar</b-button>
+      <b-button class="button1" type="submit" variant="primary">Enviar</b-button>
       <b-button type="reset" variant="danger">Reset</b-button>
     </b-form>
   </div>
@@ -68,6 +69,10 @@
     text-align: center;
     width: 50%;
     height: 200px;
+    margin-block-end: 5%;
 
+}
+.button1{
+ margin-right:2%;
 }
 </style>

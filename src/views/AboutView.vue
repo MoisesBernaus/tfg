@@ -1,8 +1,11 @@
 <template>
   <div>
+    <div id="element1"></div>
     <presentacion/>
+    <div id="element2"></div>
     <sede/>
-    <contacto/>
+    <div id="element3"></div>
+    <contacto/> 
  </div>
 </template>
 

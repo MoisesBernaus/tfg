@@ -26,6 +26,7 @@ export default {
 .image{
   margin-right:10%;
   display: inline-block;
+  margin-block-end: 5%;
 
 }
 </style>
