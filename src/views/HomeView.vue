@@ -1,22 +1,24 @@
 <template>
   <div>
     <presentacion/>
+    <modal :identificador="1"/>
  </div>
 </template>
 
 <script>
 import NavBar from '../components/NavBar'
 import Presentacion from '../components/Presentacion.vue'
-import Sede from '../components/Sede.vue'
-import Contacto from '../components/Contacto.vue'
+import Modal from '../components/Modal.vue'
+
 
 export default {
   name: 'HomeView',
   components: {
     NavBar,
     Presentacion,
-    Sede,
-    Contacto
+    Modal
+ 
+   
   }
 }
 </script>

@@ -6,6 +6,7 @@
     <sede/>
     <div id="element3"></div>
     <contacto/> 
+    <modal/>
  </div>
 </template>
 
@@ -13,13 +14,15 @@
 import Presentacion from '../components/Presentacion.vue'
 import Sede from '../components/Sede.vue'
 import Contacto from '../components/Contacto.vue'
+import Modal from '../components/Modal.vue'
 
 export default {
   name: 'AboutView',
   components: {
     Presentacion,
     Sede,
-    Contacto
+    Contacto,
+    Modal
   }
 }
 </script>
