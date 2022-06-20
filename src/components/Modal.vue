@@ -22,7 +22,7 @@
             <b-img src="../../img/image 37.jpg" height="130" width="130" alt="Image 45"></b-img>
           </b-tab>
       </b-tabs>
-        <div class="txt">
+        <div class="text">
           <hr>
           <b-container fluid class="p-4">
             <p></p>
@@ -45,9 +45,7 @@
     </b-modal>
   </div>
 </template>
-
 <script>
-
 import json from '../../public/Barreras2.json';
 export default {
   props: {  

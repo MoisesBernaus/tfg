@@ -1,7 +1,7 @@
 <template>
   <div>
     <presentacion/>
-    <modal :identificador="1"/>
+    <modal/>
  </div>
 </template>
 
@@ -10,15 +10,12 @@ import NavBar from '../components/NavBar'
 import Presentacion from '../components/Presentacion.vue'
 import Modal from '../components/Modal.vue'
 
-
 export default {
   name: 'HomeView',
   components: {
     NavBar,
     Presentacion,
     Modal
- 
-   
   }
 }
 </script>
@@ -33,10 +30,4 @@ export default {
   margin-top: 60px;
   background-color: black
 }
-/*html, body {
-    margin: 0;
-    padding: 0;
-    background-color:rgb(162, 148, 148);
-}*/
-
 </style>

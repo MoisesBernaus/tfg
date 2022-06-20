@@ -5,8 +5,10 @@
     <div id="element2"></div>
     <sede/>
     <div id="element3"></div>
-    <contacto/> 
+    <contacto/>
     <modal/>
+    <br/>
+    <peu-pag/>
  </div>
 </template>
 
@@ -15,6 +17,7 @@ import Presentacion from '../components/Presentacion.vue'
 import Sede from '../components/Sede.vue'
 import Contacto from '../components/Contacto.vue'
 import Modal from '../components/Modal.vue'
+import PeuPag from '../components/PeuPag.vue'
 
 export default {
   name: 'AboutView',
@@ -22,7 +25,8 @@ export default {
     Presentacion,
     Sede,
     Contacto,
-    Modal
+    Modal,
+    PeuPag
   }
 }
 </script>
@@ -37,10 +41,4 @@ export default {
   margin-top: 60px;
   background-color: black
 }
-/*html, body {
-    margin: 0;
-    padding: 0;
-    background-color:rgb(162, 148, 148);
-}*/
-
 </style>

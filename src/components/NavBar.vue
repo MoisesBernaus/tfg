@@ -39,7 +39,6 @@ export default {
 
 <style>
 .txt {
-    text-align: center;
-    margin-block-end: 3%;
+  text-align: center;
 }
 </style>
