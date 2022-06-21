@@ -7,7 +7,7 @@
     </b-button-group>
   </b-row>
   <b-navbar toggleable="md" type="dark" variant="dark">
-    <b-navbar-brand>LOGO</b-navbar-brand>
+    <b-navbar-brand><b-img src ="http://blocs.uib.cat/interaccion2018/files/2017/12/wlogoAIPO.png" href="http://www.udl.es/ca/" width="60" height="60"> </b-img></b-navbar-brand>
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
       <b-container>
         <b-collapse id="nav-collapse" is-nav>

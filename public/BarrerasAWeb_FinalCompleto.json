@@ -8,41 +8,41 @@
             "visual_subtitulo": "No se ha definido el lenguaje en el que está escrita la página",
             "visual_emocion": "Aburrido",
             "visual_comentario": "Escucho contenido en español, leido en inglés",
-            "vision_comentarioexplicado": "Indica el idioma en la etiqueta \"lang\" "
+            "vision_comentarioexplicado": "(Indica el idioma en la etiqueta \"lang\") "
         },
         "bajavision": {
             "bajavision_nombre": null,
             "bajavision_img": "../img/blas-blanco/Indiferente.png",
             "bajavision_subtitulo": null,
-            "bajavision_emocion": null,
-            "bajavision_comentario": null,
+            "bajavision_emocion": "Neutro",
+            "bajavision_comentario": "A mí no me afecta esta barrera",
             "bajavisio_comentarioexplicado": null
         },
         "auditivo": {
             "auditivo_nombre": null,
             "auditivo_img": "../img/aurora-ausin/Indiferente.png",
             "auditivo_subtitulo": null,
-            "auditivo_emocion": null,
-            "auditivo_comentario": null,
+            "auditivo_emocion": "Neutro",
+            "auditivo_comentario": "A mí no me afecta esta barrera",
             "auditivo_comentarioexplicado": null
         },
         "motriz": {
             "motriz_nombre": null,
             "motriz_img": "../img/miguel-mota/Indiferente.png",
             "motriz_subtitulo": null,
-            "motriz_emocion": null,
-            "motriz_comentario": null,
+            "motriz_emocion": "Neutro",
+            "motriz_comentario": "A mí no me afecta esta barrera",
             "motriz_comentarioexplicado": null
         },
         "intelectual": {
             "intelectual_nombre": null,
             "intelectual_img": "../img/oscar-coiba/Indiferente.png",
             "intelectual_subtitulo": null,
-            "intelectual_emocion": null,
-            "intelectual_comentario": null,
+            "intelectual_emocion": "Neutro",
+            "intelectual_comentario": "A mí no me afecta esta barrera",
             "intelectual_comentarioexplicado": null
         },
-        "descripcion_barrera": "El encabezado de la página no tiene definico el idioma ",
+        "descripcion_barrera": "El encabezado de la página no tiene definido el idioma ",
         "sugerencia_resolver_barrera": "Añadir la etiqueta lang o definir correctamente el idioma: <html lang=\"en\"> (en el encabezado header del HTML)",
         "pautas_WCAG": [{
             "pautas_WCAG": "3.1.1 ",
@@ -60,30 +60,30 @@
             "visual_subtitulo": "La página no tiene titulo",
             "visual_emocion": "Neutro",
             "visual_comentario": "No sé en qué pagina me encuentro",
-            "vision_comentarioexplicado": "Falta añadir el titulo de la página actual"
+            "vision_comentarioexplicado": "(Falta añadir el titulo de la página actual)"
         },
         "bajavision": {
             "bajavision_nombre": null,
             "bajavision_img": "../img/blas-blanco/Indiferente.png",
             "bajavision_subtitulo": null,
-            "bajavision_emocion": null,
-            "bajavision_comentario": null,
+            "bajavision_emocion": "Neutro",
+            "bajavision_comentario": "A mí no me afecta esta barrera",
             "bajavisio_comentarioexplicado": null
         },
         "auditivo": {
             "auditivo_nombre": null,
-            "auditivo_img": null,
+            "auditivo_img": "../img/aurora-ausin/Indiferente.png",
             "auditivo_subtitulo": null,
-            "auditivo_emocion": null,
-            "auditivo_comentario": null,
+            "auditivo_emocion": "Neutro",
+            "auditivo_comentario": "A mí no me afecta esta barrera",
             "auditivo_comentarioexplicado": null
         },
         "motriz": {
             "motriz_nombre": null,
-            "motriz_img": null,
+            "motriz_img": "../img/miguel-mota/Indiferente.png",
             "motriz_subtitulo": null,
-            "motriz_emocion": null,
-            "motriz_comentario": null,
+            "motriz_emocion": "Neutro",
+            "motriz_comentario": "A mí no me afecta esta barrera",
             "motriz_comentarioexplicado": null
         },
         "intelectual": {
@@ -92,7 +92,7 @@
             "intelectual_subtitulo": "La página no tiene titulo",
             "intelectual_emocion": "Calmado",
             "intelectual_comentario": "No sé el titulo de esta página",
-            "intelectual_comentarioexplicado": "Si se añade un titulo a la página ayuda a identificarla"          
+            "intelectual_comentarioexplicado": "(Si se añade un titulo a la página ayuda a identificarla)"          
         },
         "descripcion_barrera": "El encabezado de la página no tiene titulo",
         "sugerencia_resolver_barrera": "Añadir la etiqueta \"title\" en el encabezado (header) del codigo HTML",
@@ -108,42 +108,42 @@
         "titulo_barrera": "Pagina definida con landmarks",
         "visual": {
             "visual_nombre": "Cesar Cerezo",
-            "visual_img": "IMGVisual",
+            "visual_img": "../img/cesar-cerezo/Indiferente.png",
             "visual_subtitulo": "La página no tiene zonas de acceso rápido",
-            "visual_emocion": "No testeada",
+            "visual_emocion": "Neutro",
             "visual_comentario": "No puedo ir directamente a zonas concretas de la página",
-            "vision_comentarioexplicado": "Si el codigo esta correctamente etiquetado, se puede acceder directamente a ciertas zonas de la pagina (cabecera, contenido, menu, pie..)"          
+            "vision_comentarioexplicado": "(Si el codigo esta correctamente etiquetado, se puede acceder directamente a ciertas zonas de la pagina (cabecera, contenido, menu, pie..))"          
         },
         "bajavision": {
             "bajavision_nombre": null,
             "bajavision_img": "../img/blas-blanco/Indiferente.png",
             "bajavision_subtitulo": null,
-            "bajavision_emocion": null,
-            "bajavision_comentario": null,
+            "bajavision_emocion": "Neutro",
+            "bajavision_comentario": "A mí no me afecta esta barrera",
             "bajavisio_comentarioexplicado": null
         },
         "auditivo": {
             "auditivo_nombre": null,
-            "auditivo_img": null,
+            "auditivo_img": "../img/aurora-ausin/Indiferente.png",
             "auditivo_subtitulo": null,
-            "auditivo_emocion": null,
-            "auditivo_comentario": null,
+            "auditivo_emocion": "Neutro",
+            "auditivo_comentario": "../img/blas-blanco/Indiferente.png",
             "auditivo_comentarioexplicado": null
         },
         "motriz": {
             "motriz_nombre": null,
-            "motriz_img": null,
+            "motriz_img": "../img/miguel-mota/Indiferente.png",
             "motriz_subtitulo": null,
-            "motriz_emocion": null,
-            "motriz_comentario": null,
+            "motriz_emocion": "Neutro",
+            "motriz_comentario": "A mí no me afecta esta barrera",
             "motriz_comentarioexplicado": null
         },
         "intelectual": {
             "intelectual_nombre": null,
-            "intelectual_img": null,
+            "intelectual_img": "../img/oscar-coiba/Indiferente.png",
             "intelectual_subtitulo": null,
-            "intelectual_emocion": null,
-            "intelectual_comentario": null,
+            "intelectual_emocion": "Neutro",
+            "intelectual_comentario": "A mí no me afecta esta barrera",
             "intelectual_comentarioexplicado": null
         },
         "descripcion_barrera": "El codigo fuente HTML no tiene definidos etiquetas landmarks",
@@ -166,39 +166,39 @@
             "visual_subtitulo": "La página no tiene un orden correcto de titulos (encabezados)",
             "visual_emocion": "Aburrido",
             "visual_comentario": "El orden de los titulos me confunde…",
-            "vision_comentarioexplicado": "Los titulos de una página web son como el índice de un libro"
+            "vision_comentarioexplicado": "(Los titulos de una página web son como el índice de un libro)"
         },
         "bajavision": {
             "bajavision_nombre": null,
             "bajavision_img": "../img/blas-blanco/Indiferente.png",
             "bajavision_subtitulo": null,
-            "bajavision_emocion": null,
-            "bajavision_comentario": null,
+            "bajavision_emocion": "Neutro",
+            "bajavision_comentario": "A mí no me afecta esta barrera",
             "bajavisio_comentarioexplicado": null
         },
         "auditivo": {
             "auditivo_nombre": null,
-            "auditivo_img": null,
+            "auditivo_img": "../img/aurora-ausin/Indiferente.png",
             "auditivo_subtitulo": null,
-            "auditivo_emocion": null,
-            "auditivo_comentario": null,
+            "auditivo_emocion": "Neutro",
+            "auditivo_comentario": "A mí no me afecta esta barrera",
             "auditivo_comentarioexplicado": null
         },
         "motriz": {
             "motriz_nombre": null,
-            "motriz_img": null,
+            "motriz_img": "../img/miguel-mota/Indiferente.png",
             "motriz_subtitulo": null,
-            "motriz_emocion": null,
-            "motriz_comentario": null,
+            "motriz_emocion": "Neutro",
+            "motriz_comentario": "A mí no me afecta esta barrera",
             "motriz_comentarioexplicado": null
         },
         "intelectual": {
             "intelectual_nombre": "Óscar Coiba",
-            "intelectual_img": "IMGIntelectual",
+            "intelectual_img": "../img/oscar-coiba/Calmado.png",
             "intelectual_subtitulo": "Los titulos de la página no estan bien definidos",
             "intelectual_emocion": "Calmado",
             "intelectual_comentario": "No sé que indice de encabezados hay en la página",
-            "intelectual_comentarioexplicado": "Si se añade un indice de encabezados adecuado (H1, H2, H3) es más facil comprender el contenido"          
+            "intelectual_comentarioexplicado": "(Si se añade un indice de encabezados adecuado (H1, H2, H3) es más facil comprender el contenido)"          
         },
         "descripcion_barrera": "Faltan los encabezados (H1, H2, H3..) para definir titulos o estos no tienen el orden adecuado",
         "sugerencia_resolver_barrera": "Añadir encabezados en el orden tal y como se indica (H1, H2, H3,..) ",
@@ -222,41 +222,41 @@
         "visual": {
             "visual_nombre": "Cesar Cerezo",
             "visual_img": "../img/cesar-cerezo/Aburrido.png",
-            "visual_subtitulo": "No se indica que es una lista, una sección, un articulo…etc",
+            "visual_subtitulo": "No se indica que es una lista, una sección, un articulo, etc...",
             "visual_emocion": "Aburrido",
             "visual_comentario": "No sé identificar el tipo de contenido.",
-            "vision_comentarioexplicado": "Si se indica en codigo HTML el contenido que es lista, articulo, sección.. Etc es más facil comprender el texto"          
+            "vision_comentarioexplicado": "(Si se indica en codigo HTML el contenido que es lista, articulo, sección.. Etc es más facil comprender el texto)"          
         },
         "bajavision": {
             "bajavision_nombre": null,
             "bajavision_img": "../img/blas-blanco/Indiferente.png",
             "bajavision_subtitulo": null,
-            "bajavision_emocion": null,
-            "bajavision_comentario": null,
+            "bajavision_emocion": "Neutro",
+            "bajavision_comentario": "A mí no me afecta esta barrera",
             "bajavisio_comentarioexplicado": null
         },
         "auditivo": {
             "auditivo_nombre": null,
-            "auditivo_img": null,
+            "auditivo_img": "../img/aurora-ausin/Indiferente.png",
             "auditivo_subtitulo": null,
-            "auditivo_emocion": null,
-            "auditivo_comentario": null,
+            "auditivo_emocion": "Neutro",
+            "auditivo_comentario": "A mí no me afecta esta barrera",
             "auditivo_comentarioexplicado": null
         },
         "motriz": {
             "motriz_nombre": null,
-            "motriz_img": null,
+            "motriz_img": "../img/miguel-mota/Indiferente.png",
             "motriz_subtitulo": null,
-            "motriz_emocion": null,
-            "motriz_comentario": null,
+            "motriz_emocion": "Neutro",
+            "motriz_comentario": "A mí no me afecta esta barrera",
             "motriz_comentarioexplicado": null
         },
         "intelectual": {
             "intelectual_nombre": null,
-            "intelectual_img": null,
+            "intelectual_img": "../img/oscar-coiba/Indiferente.png",
             "intelectual_subtitulo": null,
-            "intelectual_emocion": null,
-            "intelectual_comentario": null,
+            "intelectual_emocion": "Neutro",
+            "intelectual_comentario": "A mí no me afecta esta barrera",
             "intelectual_comentarioexplicado": null
         },
         "descripcion_barrera": "El codigo fuente HTML no tiene definidos elementos de forma semántica (por ejemplo, listas con <ul><li>, articulos con <article>.. Etc)",
@@ -282,41 +282,41 @@
             "visual_nombre": null,
             "visual_img": "../img/cesar-cerezo/Indiferente.png",
             "visual_subtitulo": null,
-            "visual_emocion": null,
-            "visual_comentario": null,
+            "visual_emocion": "Neutro",
+            "visual_comentario": "A mí no me afecta esta barrera",
             "vision_comentarioexplicado": null
         },
         "bajavision": {
             "bajavision_nombre": null,
             "bajavision_img": "../img/blas-blanco/Indiferente.png",
             "bajavision_subtitulo": null,
-            "bajavision_emocion": null,
-            "bajavision_comentario": null,
+            "bajavision_emocion": "Neutro",
+            "bajavision_comentario": "A mí no me afecta esta barrera",
             "bajavisio_comentarioexplicado": null
         },
         "auditivo": {
             "auditivo_nombre": null,
-            "auditivo_img": null,
+            "auditivo_img": "../img/aurora-ausin/Indiferente.png",
             "auditivo_subtitulo": null,
-            "auditivo_emocion": null,
-            "auditivo_comentario": null,
+            "auditivo_emocion": "Neutro",
+            "auditivo_comentario": "A mí no me afecta esta barrera",
             "auditivo_comentarioexplicado": null
         },
         "motriz": {
             "motriz_nombre": "Miguel Mota",
-            "motriz_img": "IMGMotriz",
+            "motriz_img": "../img/miguel-mota/Aburrido.png",
             "motriz_subtitulo": "No se indica que elemento es interactuable",
             "motriz_emocion": "Aburrido",
             "motriz_comentario": "No veo donde está el foco",
-            "motriz_comentarioexplicado": "Indicar el elemento donde se encuentra el foco ayuda a interactuar con los elementos de la página"          
+            "motriz_comentarioexplicado": "(Indicar el elemento donde se encuentra el foco ayuda a interactuar con los elementos de la página)"          
         },
         "intelectual": {
             "intelectual_nombre": "Óscar Coiba",
-            "intelectual_img": "IMGIntelectual",
+            "intelectual_img": "../img/oscar-coiba/Indiferente.png",
             "intelectual_subtitulo": "No se identifica el elemento que tiene el foco",
-            "intelectual_emocion": "No testeada",
+            "intelectual_emocion": "Neutro",
             "intelectual_comentario": "No sé en que elemento intractivo esta el foco",
-            "intelectual_comentarioexplicado": "Indicar de forma visible donde esta el foco, ayuda en la interacción"          
+            "intelectual_comentarioexplicado": "(Indicar de forma visible donde esta el foco, ayuda en la interacción)"          
         },
         "descripcion_barrera": "El elemento que tiene el foco no destaca",
         "sugerencia_resolver_barrera": "Añadir un indicador lo suficientemente visible que indique donde se encuentra el foco",
@@ -333,42 +333,42 @@
         "titulo_barrera": "No se puede navegar con el teclado",
         "visual": {
             "visual_nombre": "Cesar Cerezo",
-            "visual_img": "IMGVisual",
+            "visual_img": "../img/cesar-cerezo/Indiferente.png",
             "visual_subtitulo": "No se ha implementado la navegación con el tabulador",
-            "visual_emocion": "No testeada",
+            "visual_emocion": "Neutro",
             "visual_comentario": "No puedo avanzar por el contenido de la página",
-            "vision_comentarioexplicado": "Permitir una navegación con el teclado es esencial para los programas de lector de pantalla"          
+            "vision_comentarioexplicado": "(Permitir una navegación con el teclado es esencial para los programas de lector de pantalla)"          
         },
         "bajavision": {
             "bajavision_nombre": null,
             "bajavision_img": "../img/blas-blanco/Indiferente.png",
             "bajavision_subtitulo": null,
-            "bajavision_emocion": null,
-            "bajavision_comentario": null,
+            "bajavision_emocion": "Neutro",
+            "bajavision_comentario": "A mí no me afecta esta barrera",
             "bajavisio_comentarioexplicado": null
         },
         "auditivo": {
             "auditivo_nombre": null,
-            "auditivo_img": null,
+            "auditivo_img": "../img/aurora-ausin/Indiferente.png",
             "auditivo_subtitulo": null,
-            "auditivo_emocion": null,
-            "auditivo_comentario": null,
+            "auditivo_emocion": "Neutro",
+            "auditivo_comentario": "A mí no me afecta esta barrera",
             "auditivo_comentarioexplicado": null
         },
         "motriz": {
             "motriz_nombre": "Miguel Mota",
-            "motriz_img": "IMGMotriz",
+            "motriz_img": "../img/miguel-mota/Triste.png",
             "motriz_subtitulo": "No se puede navegar con el tabulador",
             "motriz_emocion": "Triste",
             "motriz_comentario": "No puedo navegar por la página con el tabulador",
-            "motriz_comentarioexplicado": "Existen problemas en el codigo HTML de la página que no permite la navegación con el tabulador"          
+            "motriz_comentarioexplicado": "(Existen problemas en el codigo HTML de la página que no permite la navegación con el tabulador)"          
         },
         "intelectual": {
             "intelectual_nombre": null,
-            "intelectual_img": null,
+            "intelectual_img": "../img/oscar-coiba/Indiferente.png",
             "intelectual_subtitulo": null,
-            "intelectual_emocion": null,
-            "intelectual_comentario": null,
+            "intelectual_emocion": "Neutro",
+            "intelectual_comentario": "A mí no me afecta esta barrera",
             "intelectual_comentarioexplicado": null
         },
         "descripcion_barrera": "No es posible la navegación por teclado por la página",
@@ -392,39 +392,39 @@
             "visual_subtitulo": "No se identifica el destino de los enlaces",
             "visual_emocion": "Triste",
             "visual_comentario": "¿Dónde me lleva el enlace?",
-            "vision_comentarioexplicado": "Indicar un texto adecuado a cada enlace, facilita saber su destino"
+            "vision_comentarioexplicado": "(Indicar un texto adecuado a cada enlace, facilita saber su destino)"
         },
         "bajavision": {
             "bajavision_nombre": null,
             "bajavision_img": "../img/blas-blanco/Indiferente.png",
             "bajavision_subtitulo": null,
-            "bajavision_emocion": null,
-            "bajavision_comentario": null,
+            "bajavision_emocion": "Neutro",
+            "bajavision_comentario": "A mí no me afecta esta barrera",
             "bajavisio_comentarioexplicado": null
         },
         "auditivo": {
             "auditivo_nombre": null,
-            "auditivo_img": null,
+            "auditivo_img": "../img/aurora-ausin/Indiferente.png",
             "auditivo_subtitulo": null,
-            "auditivo_emocion": null,
-            "auditivo_comentario": null,
+            "auditivo_emocion": "Neutro",
+            "auditivo_comentario": "A mí no me afecta esta barrera",
             "auditivo_comentarioexplicado": null
         },
         "motriz": {
             "motriz_nombre": null,
-            "motriz_img": null,
+            "motriz_img": "../img/miguel-mota/Indiferente.png",
             "motriz_subtitulo": null,
-            "motriz_emocion": null,
-            "motriz_comentario": null,
+            "motriz_emocion": "Neutro",
+            "motriz_comentario": "A mí no me afecta esta barrera",
             "motriz_comentarioexplicado": null
         },
         "intelectual": {
             "intelectual_nombre": "Óscar Coiba",
-            "intelectual_img": "IMGIntelectual",
+            "intelectual_img": "../img/oscar-coiba/Calmado.png",
             "intelectual_subtitulo": "Los enlaces son demasiado generales",
             "intelectual_emocion": "Calmado",
             "intelectual_comentario": "No sé el destino del enlace",
-            "intelectual_comentarioexplicado": "Especificar mejor el texto de los enlaces ayuda a saber su destino"
+            "intelectual_comentarioexplicado": "(Especificar mejor el texto de los enlaces ayuda a saber su destino)"
         },
         "descripcion_barrera": "El titulo de los enlaces es muy generico y no pueden distinguirse entre ellos",
         "sugerencia_resolver_barrera": "Añadir un texto de enlace lo suficientemente preciso y distinto a cualquier otro enlace de la página para al ser consultado de forma conjunta, puedan identificarse el destino de cada uno.",
@@ -440,10 +440,10 @@
         "titulo_barrera": "Enlaces sin destacar",
         "visual": {
             "visual_nombre": null,
-            "visual_img": null,
+            "visual_img": "../img/cesar-cerezo/Indiferente.png",
             "visual_subtitulo": null,
-            "visual_emocion": null,
-            "visual_comentario": null,
+            "visual_emocion": "Neutro",
+            "visual_comentario": "A mí no me afecta esta barrera",
             "vision_comentarioexplicado": null
         },
         "bajavision": {
@@ -452,36 +452,36 @@
             "bajavision_subtitulo": "No distingue enlaces de texto de contenido",
             "bajavision_emocion": "Neutro",
             "bajavision_comentario": "No sé identificar los enlaces del texto",
-            "bajavisio_comentarioexplicado": "Si no se destacan los enlaces, no se pueden distinguir del resto de texto"          
+            "bajavisio_comentarioexplicado": "(Si no se destacan los enlaces, no se pueden distinguir del resto de texto)"          
         },
         "auditivo": {
             "auditivo_nombre": null,
-            "auditivo_img": null,
+            "auditivo_img": "../img/aurora-ausin/Indiferente.png",
             "auditivo_subtitulo": null,
-            "auditivo_emocion": null,
-            "auditivo_comentario": null,
+            "auditivo_emocion": "Neutro",
+            "auditivo_comentario": "A mí no me afecta esta barrera",
             "auditivo_comentarioexplicado": null
         },
         "motriz": {
             "motriz_nombre": null,
-            "motriz_img": null,
+            "motriz_img": "../img/miguel-mota/Indiferente.png",
             "motriz_subtitulo": null,
-            "motriz_emocion": null,
-            "motriz_comentario": null,
+            "motriz_emocion": "Neutro",
+            "motriz_comentario": "A mí no me afecta esta barrera",
             "motriz_comentarioexplicado": null
         },
         "intelectual": {
             "intelectual_nombre": "Óscar Coiba",
-            "intelectual_img": "IMGIntelectual",
+            "intelectual_img": "../img/oscar-coiba/Indiferente.png",
             "intelectual_subtitulo": "Los enlaces no se destacan",
-            "intelectual_emocion": "No testeada",
+            "intelectual_emocion": "Neutro",
             "intelectual_comentario": "No sé identificar los enlaces",
-            "intelectual_comentarioexplicado": "Indicar los enlaces  subrayandolos o con cambio de color"          
+            "intelectual_comentarioexplicado": "(Indicar los enlaces  subrayandolos o con cambio de color)"          
         },
         "descripcion_barrera": "Los enlaces no destacan en el contenido textual",
         "sugerencia_resolver_barrera": "No se identifica claramente un enlace del texto de contenido",
         "pautas_WCAG": [{
-            "pautas_WCAG": "1.4.1 ",
+            "pautas_WCAG": "1.4.1",
             "titulo": "Uso de color",
             "nivel": "A",
             "principio": "Perceptible",
@@ -500,10 +500,10 @@
         "titulo_barrera": "Texto sin contraste",
         "visual": {
             "visual_nombre": null,
-            "visual_img": null,
+            "visual_img": "../img/cesar-cerezo/Indiferente.png",
             "visual_subtitulo": null,
-            "visual_emocion": null,
-            "visual_comentario": null,
+            "visual_emocion": "Neutro",
+            "visual_comentario": "A mí no me afecta esta barrera",
             "vision_comentarioexplicado": null
         },
         "bajavision": {
@@ -512,36 +512,36 @@
             "bajavision_subtitulo": "El texto no se ve bien",
             "bajavision_emocion": "Triste",
             "bajavision_comentario": "Tengo mucha dificultad para leer el texto de la página",
-            "bajavisio_comentarioexplicado": "Añadir colores de texto primer plano y fondo con buen contraste"
+            "bajavisio_comentarioexplicado": "(Añadir colores de texto primer plano y fondo con buen contraste)"
         },
         "auditivo": {
             "auditivo_nombre": null,
-            "auditivo_img": null,
+            "auditivo_img": "../img/aurora-ausin/Indiferente.png",
             "auditivo_subtitulo": null,
-            "auditivo_emocion": null,
-            "auditivo_comentario": null,
+            "auditivo_emocion": "Neutro",
+            "auditivo_comentario": "A mí no me afecta esta barrera",
             "auditivo_comentarioexplicado": null
         },
         "motriz": {
             "motriz_nombre": null,
-            "motriz_img": null,
+            "motriz_img": "../img/miguel-mota/Indiferente.png",
             "motriz_subtitulo": null,
-            "motriz_emocion": null,
-            "motriz_comentario": null,
+            "motriz_emocion": "Neutro",
+            "motriz_comentario": "A mí no me afecta esta barrera",
             "motriz_comentarioexplicado": null
         },
         "intelectual": {
             "intelectual_nombre": "Óscar Coiba",
-            "intelectual_img": "IMGIntelectual",
+            "intelectual_img": "../img/oscar-coiba/Indiferente.png",
             "intelectual_subtitulo": "El texto no tiene contraste adecuado",
-            "intelectual_emocion": "No testeada",
+            "intelectual_emocion": "Neutro",
             "intelectual_comentario": "Me cuesta ver el texto",
-            "intelectual_comentarioexplicado": "Mejor presentar el texto con buen contraste para facilitar su lectura"          
+            "intelectual_comentarioexplicado": "(Mejor presentar el texto con buen contraste para facilitar su lectura)"          
         },
         "descripcion_barrera": "El texto no tiene contraste",
         "sugerencia_resolver_barrera": "Añadir el texto negro sobre fondo blanco (o al reves) o considerar colores con buen contraste",
         "pautas_WCAG": [{
-            "pautas_WCAG": "1.4.1 ",
+            "pautas_WCAG": "1.4.1",
             "titulo": "Uso de color",
             "nivel": "A",
             "principio": "Perceptible",
@@ -552,43 +552,43 @@
         "titulo_barrera": "Texto sin espaciado adecuado",
         "visual": {
             "visual_nombre": null,
-            "visual_img": null,
+            "visual_img": "../img/cesar-cerezo/Indiferente.png",
             "visual_subtitulo": null,
-            "visual_emocion": null,
-            "visual_comentario": null,
+            "visual_emocion": "Neutro",
+            "visual_comentario": "A mí no me afecta esta barrera",
             "vision_comentarioexplicado": null
         },
         "bajavision": {
             "bajavision_nombre": "Blas Blanco",
-            "bajavision_img": "IMGBajaVision",
+            "bajavision_img": "../img/blas-blanco/Indiferente.png",
             "bajavision_subtitulo": "El texto no se adapta correctamente",
-            "bajavision_emocion": "No testeada",
+            "bajavision_emocion": "Neutro",
             "bajavision_comentario": "Cuando amplio el texto, no se ve bien",
-            "bajavisio_comentarioexplicado": "Permitir que al ampliar el texto, se vea todo el contenido corectamente"     
+            "bajavisio_comentarioexplicado": "(Permitir que al ampliar el texto, se vea todo el contenido corectamente)"     
         },
         "auditivo": {
             "auditivo_nombre": null,
-            "auditivo_img": null,
+            "auditivo_img": "../img/aurora-ausin/Indiferente.png",
             "auditivo_subtitulo": null,
-            "auditivo_emocion": null,
-            "auditivo_comentario": null,
+            "auditivo_emocion": "Neutro",
+            "auditivo_comentario": "A mí no me afecta esta barrera",
             "auditivo_comentarioexplicado": null
         },
         "motriz": {
             "motriz_nombre": null,
-            "motriz_img": null,
+            "motriz_img": "../img/miguel-mota/Indiferente.png",
             "motriz_subtitulo": null,
-            "motriz_emocion": null,
-            "motriz_comentario": null,
+            "motriz_emocion": "Neutro",
+            "motriz_comentario": "A mí no me afecta esta barrera",
             "motriz_comentarioexplicado": null
         },
         "intelectual": {
             "intelectual_nombre": "Óscar Coiba",
-            "intelectual_img": "IMGIntelectual",
+            "intelectual_img": "../img/oscar-coiba/Indiferente.png",
             "intelectual_subtitulo": "El texto no se adapta correctamente",
-            "intelectual_emocion": "No testeada",
+            "intelectual_emocion": "Neutro",
             "intelectual_comentario": "No veo bien el contenido si hago más grande la página",
-            "intelectual_comentarioexplicado": "Facilitar la visibilidad del texto al cambiar propiedades de visualización"
+            "intelectual_comentarioexplicado": "(Facilitar la visibilidad del texto al cambiar propiedades de visualización)"
            
         },
         "descripcion_barrera": "Cuando se realizan ajustes de visualización del contenido (texto más grande, por ejemplo) se producen perdidas (de contenido o funcionalidad)",
@@ -608,43 +608,43 @@
         "titulo_barrera": "Video sin subtítulos",
         "visual": {
             "visual_nombre": null,
-            "visual_img": null,
+            "visual_img": "../img/cesar-cerezo/Indiferente.png",
             "visual_subtitulo": null,
-            "visual_emocion": null,
-            "visual_comentario": null,
+            "visual_emocion": "Neutro",
+            "visual_comentario": "A mí no me afecta esta barrera",
             "vision_comentarioexplicado": null
         },
         "bajavision": {
             "bajavision_nombre": null,
             "bajavision_img": "../img/blas-blanco/Indiferente.png",
             "bajavision_subtitulo": null,
-            "bajavision_emocion": null,
-            "bajavision_comentario": null,
+            "bajavision_emocion": "Neutro",
+            "bajavision_comentario": "A mí no me afecta esta barrera",
             "bajavisio_comentarioexplicado": null
         },
         "auditivo": {
             "auditivo_nombre": "Aurora Ausin",
-            "auditivo_img": "IMGAuditivo",
+            "auditivo_img": "../img/aurora-ausin/Irritado.png",
             "auditivo_subtitulo": "No puede comprender el contenido del video",
             "auditivo_emocion": "Irritado",
             "auditivo_comentario": "No entiendo el video",
-            "auditivo_comentarioexplicado": "Los subtitulos ayudan en la comprensión de un vídeo"
+            "auditivo_comentarioexplicado": "(Los subtitulos ayudan en la comprensión de un vídeo)"
         },
         "motriz": {
             "motriz_nombre": null,
-            "motriz_img": null,
+            "motriz_img": "../img/miguel-mota/Indiferente.png",
             "motriz_subtitulo": null,
-            "motriz_emocion": null,
-            "motriz_comentario": null,
+            "motriz_emocion": "Neutro",
+            "motriz_comentario": "A mí no me afecta esta barrera",
             "motriz_comentarioexplicado": null
         },
         "intelectual": {
-            "intelectual_nombre": null,
-            "intelectual_img": null,
-            "intelectual_subtitulo": null,
-            "intelectual_emocion": null,
-            "intelectual_comentario": null,
-            "intelectual_comentarioexplicado": null
+            "intelectual_nombre": "Óscar Coiba",
+            "intelectual_img": "../img/oscar-coiba/Indiferente.png",
+            "intelectual_subtitulo": "El texto no se adapta correctamente",
+            "intelectual_emocion": "Neutro",
+            "intelectual_comentario": "No veo bien el contenido si hago más grande la página",
+            "intelectual_comentarioexplicado": "(Facilitar la visibilidad del texto al cambiar propiedades de visualización)"
         },
         "descripcion_barrera": "El video no tiene subtitulos que muestren la información auditiva",
         "sugerencia_resolver_barrera": "Añadir subtitulos al video ",
@@ -660,11 +660,11 @@
         "titulo_barrera": "Video sin audiodescripción",
         "visual": {
             "visual_nombre": "Cesar Cerezo",
-            "visual_img": "IMGVisual",
+            "visual_img": "../img/cesar-cerezo/Indiferente.png",
             "visual_subtitulo": "Tiene problemas con el contenido del video",
-            "visual_emocion": "No testeada",
+            "visual_emocion": "Neutro",
             "visual_comentario": "No entiendo qué presenta el video",
-            "vision_comentarioexplicado": "falta que el video se acompañe de un audio que explique su contenido"
+            "vision_comentarioexplicado": "(Falta que el video se acompañe de un audio que explique su contenido)"
            
         },
         "bajavision": {
@@ -673,31 +673,31 @@
             "bajavision_subtitulo": "El video no dispone de audio explicativo",
             "bajavision_emocion": "Aburrido",
             "bajavision_comentario": "Mirar el video acompañado de una audiodescripción me ayuda a coprenderlo mejor!",
-            "bajavisio_comentarioexplicado": "Acompañar de audiodescripción un video mejora su comprensión"
+            "bajavisio_comentarioexplicado": "(Acompañar de audiodescripción un video mejora su comprensión)"
         },
         "auditivo": {
             "auditivo_nombre": null,
-            "auditivo_img": null,
+            "auditivo_img": "../img/aurora-ausin/Indiferente.png",
             "auditivo_subtitulo": null,
-            "auditivo_emocion": null,
-            "auditivo_comentario": null,
+            "auditivo_emocion": "Neutro",
+            "auditivo_comentario": "A mí no me afecta esta barrera",
             "auditivo_comentarioexplicado": null
         },
         "motriz": {
             "motriz_nombre": null,
-            "motriz_img": null,
+            "motriz_img": "../img/miguel-mota/Indiferente.png",
             "motriz_subtitulo": null,
-            "motriz_emocion": null,
-            "motriz_comentario": null,
+            "motriz_emocion": "Neutro",
+            "motriz_comentario": "A mí no me afecta esta barrera",
             "motriz_comentarioexplicado": null
         },
         "intelectual": {
-            "intelectual_nombre": null,
-            "intelectual_img": null,
-            "intelectual_subtitulo": null,
-            "intelectual_emocion": null,
-            "intelectual_comentario": null,
-            "intelectual_comentarioexplicado": null
+            "intelectual_nombre": "Óscar Coiba",
+            "intelectual_img": "../img/oscar-coiba/Indiferente.png",
+            "intelectual_subtitulo": "El texto no se adapta correctamente",
+            "intelectual_emocion": "Neutro",
+            "intelectual_comentario": "No veo bien el contenido si hago más grande la página",
+            "intelectual_comentarioexplicado": "(Facilitar la visibilidad del texto al cambiar propiedades de visualización)"
         },
         "descripcion_barrera": "El video sin audio, no tiene audiodescripción que explique su contenido",
         "sugerencia_resolver_barrera": "Añadir un audio que explique o \"audiodescriba\" el contenido del video",
@@ -713,44 +713,44 @@
         "titulo_barrera": "Reproductor de video inaccesible",
         "visual": {
             "visual_nombre": "Cesar Cerezo",
-            "visual_img": "IMGVisual",
+            "visual_img": "../img/cesar-cerezo/Indiferente.png",
             "visual_subtitulo": "No se puede reproducir el video",
-            "visual_emocion": "No testeada",
+            "visual_emocion": "Neutro",
             "visual_comentario": "No puedo acceder al reproductor del video para ver su contendido",
-            "vision_comentarioexplicado": "Utilizar un reproductor accesible ayuda a la hora de interactuar con él por teclado"
+            "vision_comentarioexplicado": "(Utilizar un reproductor accesible ayuda a la hora de interactuar con él por teclado)"
         },
         "bajavision": {
             "bajavision_nombre": null,
             "bajavision_img": "../img/blas-blanco/Indiferente.png",
             "bajavision_subtitulo": null,
-            "bajavision_emocion": null,
-            "bajavision_comentario": null,
+            "bajavision_emocion": "Neutro",
+            "bajavision_comentario": "A mí no me afecta esta barrera",
             "bajavisio_comentarioexplicado": null
         },
         "auditivo": {
             "auditivo_nombre": null,
-            "auditivo_img": null,
+            "auditivo_img": "../img/aurora-ausin/Indiferente.png",
             "auditivo_subtitulo": null,
-            "auditivo_emocion": null,
-            "auditivo_comentario": null,
+            "auditivo_emocion": "Neutro",
+            "auditivo_comentario": "A mí no me afecta esta barrera",
             "auditivo_comentarioexplicado": null
         },
         "motriz": {
             "motriz_nombre": "Miguel Mota",
-            "motriz_img": "IMGMotriz",
+            "motriz_img": "../img/miguel-mota/Indiferente.png",
             "motriz_subtitulo": "El reproductor no funciona",
             "motriz_emocion": "Neutro",
             "motriz_comentario": "¿Cómo puedo reproducir el video?",
-            "motriz_comentarioexplicado": "El reproductor de video no tiene caracteristicas de accesibilidad adecuadas para usar con el teclado"
+            "motriz_comentarioexplicado": "(El reproductor de video no tiene caracteristicas de accesibilidad adecuadas para usar con el teclado)"
            
         },
         "intelectual": {
-            "intelectual_nombre": null,
-            "intelectual_img": null,
-            "intelectual_subtitulo": null,
-            "intelectual_emocion": null,
-            "intelectual_comentario": null,
-            "intelectual_comentarioexplicado": null
+            "intelectual_nombre": "Óscar Coiba",
+            "intelectual_img": "../img/oscar-coiba/Indiferente.png",
+            "intelectual_subtitulo": "El texto no se adapta correctamente",
+            "intelectual_emocion": "Neutro",
+            "intelectual_comentario": "No veo bien el contenido si hago más grande la página",
+            "intelectual_comentarioexplicado": "(Facilitar la visibilidad del texto al cambiar propiedades de visualización)"
         },
         "descripcion_barrera": "El reproductor del video no puede interactuar (play, stop) con el teclado",
         "sugerencia_resolver_barrera": "Utilizar un reproductor de video accesible que permita no solo navegar por teclado, sino añadir subtitulos o audiodescripción de forma integrada.",
@@ -793,39 +793,39 @@
             "visual_subtitulo": "Tiene problemas con las imágenes",
             "visual_emocion": "Irritado",
             "visual_comentario": "No entiendo que hay en las imágenes",
-            "vision_comentarioexplicado": "Las imágenes que son enlace y realizan una función, no tienen descripción"          
+            "vision_comentarioexplicado": "(Las imágenes que son enlace y realizan una función, no tienen descripción)"          
         },
         "bajavision": {
             "bajavision_nombre": null,
             "bajavision_img": "../img/blas-blanco/Indiferente.png",
             "bajavision_subtitulo": null,
-            "bajavision_emocion": null,
-            "bajavision_comentario": null,
+            "bajavision_emocion": "Neutro",
+            "bajavision_comentario": "A mí no me afecta esta barrera",
             "bajavisio_comentarioexplicado": null
         },
         "auditivo": {
             "auditivo_nombre": null,
-            "auditivo_img": null,
+            "auditivo_img": "../img/aurora-ausin/Indiferente.png",
             "auditivo_subtitulo": null,
-            "auditivo_emocion": null,
-            "auditivo_comentario": null,
+            "auditivo_emocion": "Neutro",
+            "auditivo_comentario": "A mí no me afecta esta barrera",
             "auditivo_comentarioexplicado": null
         },
         "motriz": {
             "motriz_nombre": null,
-            "motriz_img": null,
+            "motriz_img": "../img/miguel-mota/Indiferente.png",
             "motriz_subtitulo": null,
-            "motriz_emocion": null,
-            "motriz_comentario": null,
+            "motriz_emocion": "Neutro",
+            "motriz_comentario": "A mí no me afecta esta barrera",
             "motriz_comentarioexplicado": null
         },
         "intelectual": {
             "intelectual_nombre": "Óscar Coiba",
-            "intelectual_img": "IMGIntelectual",
+            "intelectual_img": "../img/oscar-coiba/Indiferente.png",
             "intelectual_subtitulo": "No sé que ocurre al clicar en las imágenes que son enlaces",
             "intelectual_emocion": "Neutro",
             "intelectual_comentario": "¿Qué pasa al clicar un logo?",
-            "intelectual_comentarioexplicado": "Añadir una explicación textual para describir la imagen"          
+            "intelectual_comentarioexplicado": "(Añadir una explicación textual para describir la imagen)"          
         },
         "descripcion_barrera": "Iconos que enlazan con recursos web, no tienen una descripción adecuada",
         "sugerencia_resolver_barrera": "Añadir un atributo \"alt\" con el destino del enlace que se ha añadido a la imagen",
@@ -842,42 +842,42 @@
         "titulo_barrera": "Imágenes decorativas con texto alternativo",
         "visual": {
             "visual_nombre": "Cesar Cerezo",
-            "visual_img": "IMGVisual",
+            "visual_img": "../img/cesar-cerezo/Aburrido.png",
             "visual_subtitulo": "Imágenes decorativas con texto explicativo",
             "visual_emocion": "Aburrido",
             "visual_comentario": "Escuchar el contenido de una imagen decorativa, que no me aporta nada, me despista de lo esencial de la página.",
-            "vision_comentarioexplicado": "Las imágenes decorativas no tienen que tener texto alternativo"          
+            "vision_comentarioexplicado": "(Las imágenes decorativas no tienen que tener texto alternativo)"          
         },
         "bajavision": {
             "bajavision_nombre": null,
             "bajavision_img": "../img/blas-blanco/Indiferente.png",
             "bajavision_subtitulo": null,
-            "bajavision_emocion": null,
-            "bajavision_comentario": null,
+            "bajavision_emocion": "Neutro",
+            "bajavision_comentario": "A mí no me afecta esta barrera",
             "bajavisio_comentarioexplicado": null
         },
         "auditivo": {
             "auditivo_nombre": null,
-            "auditivo_img": null,
+            "auditivo_img": "../img/aurora-ausin/Indiferente.png",
             "auditivo_subtitulo": null,
-            "auditivo_emocion": null,
-            "auditivo_comentario": null,
+            "auditivo_emocion": "Neutro",
+            "auditivo_comentario": "A mí no me afecta esta barrera",
             "auditivo_comentarioexplicado": null
         },
         "motriz": {
             "motriz_nombre": null,
-            "motriz_img": null,
+            "motriz_img": "../img/miguel-mota/Indiferente.png",
             "motriz_subtitulo": null,
-            "motriz_emocion": null,
-            "motriz_comentario": null,
+            "motriz_emocion": "Neutro",
+            "motriz_comentario": "A mí no me afecta esta barrera",
             "motriz_comentarioexplicado": null
         },
         "intelectual": {
             "intelectual_nombre": null,
-            "intelectual_img": null,
+            "intelectual_img": "../img/oscar-coiba/Indiferente.png",
             "intelectual_subtitulo": null,
-            "intelectual_emocion": null,
-            "intelectual_comentario": null,
+            "intelectual_emocion": "Neutro",
+            "intelectual_comentario": "A mí no me afecta esta barrera",
             "intelectual_comentarioexplicado": null
         },
         "descripcion_barrera": "Existen imgenes que son decorativas y no aportan significado que disponen de un texto alternativo innecesario",
@@ -897,43 +897,43 @@
         "titulo_barrera": "Validación de campos ",
         "visual": {
             "visual_nombre": "Cesar Cerezo",
-            "visual_img": "IMGVisual",
+            "visual_img": "../img/cesar-cerezo/Indiferente.png",
             "visual_subtitulo": "No se indica el error del formulario",
-            "visual_emocion": "No testeada",
+            "visual_emocion": "Neutro",
             "visual_comentario": "No sé que error he cometido al añadir texto en la entrada del campo de texto",
-            "vision_comentarioexplicado": "Se debe indicar que tipo de datos se añaden a los campos de texto"           
+            "vision_comentarioexplicado": "(Se debe indicar que tipo de datos se añaden a los campos de texto)"           
         },
         "bajavision": {
             "bajavision_nombre": null,
             "bajavision_img": "../img/blas-blanco/Indiferente.png",
             "bajavision_subtitulo": null,
-            "bajavision_emocion": null,
-            "bajavision_comentario": null,
+            "bajavision_emocion": "Neutro",
+            "bajavision_comentario": "A mí no me afecta esta barrera",
             "bajavisio_comentarioexplicado": null
         },
         "auditivo": {
             "auditivo_nombre": null,
-            "auditivo_img": null,
+            "auditivo_img": "../img/aurora-ausin/Indiferente.png",
             "auditivo_subtitulo": null,
-            "auditivo_emocion": null,
-            "auditivo_comentario": null,
+            "auditivo_emocion": "Neutro",
+            "auditivo_comentario": "A mí no me afecta esta barrera",
             "auditivo_comentarioexplicado": null
         },
         "motriz": {
             "motriz_nombre": null,
-            "motriz_img": null,
+            "motriz_img": "../img/miguel-mota/Indiferente.png",
             "motriz_subtitulo": null,
-            "motriz_emocion": null,
-            "motriz_comentario": null,
+            "motriz_emocion": "Neutro",
+            "motriz_comentario": "A mí no me afecta esta barrera",
             "motriz_comentarioexplicado": null
         },
         "intelectual": {
             "intelectual_nombre": "Óscar Coiba",
-            "intelectual_img": "IMGIntelectual",
+            "intelectual_img": "../img/oscar-coiba/Calmado.png",
             "intelectual_subtitulo": "No se indica el error en el formulario",
             "intelectual_emocion": "Calmado",
             "intelectual_comentario": "¿Qué error tengo que no me permite añadir datos al cuadro de texto?",
-            "intelectual_comentarioexplicado": "Indicar el error producido en el campo de entrada"
+            "intelectual_comentarioexplicado": "(Indicar el error producido en el campo de entrada)"
           
         },
         "descripcion_barrera": "No se indica el error especifico en la entrada del cuadro de texto",
@@ -961,43 +961,43 @@
         "titulo_barrera": "Etiqueta sin el nombre ",
         "visual": {
             "visual_nombre": "Cesar Cerezo",
-            "visual_img": "IMGVisual",
+            "visual_img": "../img/cesar-cerezo/Indiferente.png",
             "visual_subtitulo": "El navegador de voz indica un texto distinto al escrito en pantalla",
-            "visual_emocion": "No testeada",
+            "visual_emocion": "Neutro",
             "visual_comentario": "¿Lo que escucho con el navegador de voz es lo que está escrito en pantalla?",
-            "vision_comentarioexplicado": "Asegurar que el texto oculto en HTML es el mismo que el que se muestra por pantalla"
+            "vision_comentarioexplicado": "(Asegurar que el texto oculto en HTML es el mismo que el que se muestra por pantalla)"
            
         },
         "bajavision": {
             "bajavision_nombre": null,
             "bajavision_img": "../img/blas-blanco/Indiferente.png",
             "bajavision_subtitulo": null,
-            "bajavision_emocion": null,
-            "bajavision_comentario": null,
+            "bajavision_emocion": "Neutro",
+            "bajavision_comentario": "A mí no me afecta esta barrera",
             "bajavisio_comentarioexplicado": null
         },
         "auditivo": {
             "auditivo_nombre": null,
-            "auditivo_img": null,
+            "auditivo_img": "../img/aurora-ausin/Indiferente.png",
             "auditivo_subtitulo": null,
-            "auditivo_emocion": null,
-            "auditivo_comentario": null,
+            "auditivo_emocion": "Neutro",
+            "auditivo_comentario": "A mí no me afecta esta barrera",
             "auditivo_comentarioexplicado": null
         },
         "motriz": {
             "motriz_nombre": null,
-            "motriz_img": null,
+            "motriz_img": "../img/miguel-mota/Indiferente.png",
             "motriz_subtitulo": null,
-            "motriz_emocion": null,
-            "motriz_comentario": null,
+            "motriz_emocion": "Neutro",
+            "motriz_comentario": "A mí no me afecta esta barrera",
             "motriz_comentarioexplicado": null
         },
         "intelectual": {
             "intelectual_nombre": null,
-            "intelectual_img": null,
+            "intelectual_img": "../img/oscar-coiba/Indiferente.png",
             "intelectual_subtitulo": null,
-            "intelectual_emocion": null,
-            "intelectual_comentario": null,
+            "intelectual_emocion": "Neutro",
+            "intelectual_comentario": "A mí no me afecta esta barrera",
             "intelectual_comentarioexplicado": null
         },
         "descripcion_barrera": "Las etiquetas de los botones, los íconos accionables o cualquier control interactivo deben tener una descripción significativa tanto para quienes ven como para quienes escuchan la información",
@@ -1016,43 +1016,43 @@
         "titulo_barrera": "Formularios sin identificar el proposito del campo",
         "visual": {
             "visual_nombre": "Cesar Cerezo",
-            "visual_img": "IMGVisual",
+            "visual_img": "../img/cesar-cerezo/Indiferente.png",
             "visual_subtitulo": "El formlario no permite autorelleno",
-            "visual_emocion": "No testeada",
+            "visual_emocion": "Neutro",
             "visual_comentario": "No me aparece el dato autorellenado",
-            "vision_comentarioexplicado": "Ayudar al usuario a introducir datos en el campo de texto, facilita su cumplimentación"          
+            "vision_comentarioexplicado": "(Ayudar al usuario a introducir datos en el campo de texto, facilita su cumplimentación)"          
         },
         "bajavision": {
             "bajavision_nombre": null,
             "bajavision_img": "../img/blas-blanco/Indiferente.png",
             "bajavision_subtitulo": null,
-            "bajavision_emocion": null,
-            "bajavision_comentario": null,
+            "bajavision_emocion": "Neutro",
+            "bajavision_comentario": "A mí no me afecta esta barrera",
             "bajavisio_comentarioexplicado": null
         },
         "auditivo": {
             "auditivo_nombre": null,
-            "auditivo_img": null,
+            "auditivo_img": "../img/aurora-ausin/Indiferente.png",
             "auditivo_subtitulo": null,
-            "auditivo_emocion": null,
-            "auditivo_comentario": null,
+            "auditivo_emocion": "Neutro",
+            "auditivo_comentario": "A mí no me afecta esta barrera",
             "auditivo_comentarioexplicado": null
         },
         "motriz": {
             "motriz_nombre": "Miguel Mota",
-            "motriz_img": "IMGMotriz",
+            "motriz_img": "../img/miguel-mota/Indiferente.png",
             "motriz_subtitulo": "No se indica que dato debe añadirse al campos",
-            "motriz_emocion": "No testeada",
+            "motriz_emocion": "Neutro",
             "motriz_comentario": "No se que tengo que añadir al campo de texto",
-            "motriz_comentarioexplicado": "Falta indicar un \"autocompletar\" para facilitar la entrada de datos"          
+            "motriz_comentarioexplicado": "(Falta indicar un \"autocompletar\" para facilitar la entrada de datos)"          
         },
         "intelectual": {
             "intelectual_nombre": "Óscar Coiba",
-            "intelectual_img": "IMGIntelectual",
+            "intelectual_img": "../img/oscar-coiba/Calmado.png",
             "intelectual_subtitulo": "El formulario no indica un autocopletado",
             "intelectual_emocion": "Calmado",
             "intelectual_comentario": "Me cuesta saber que debo añadir al campo de texto",
-            "intelectual_comentarioexplicado": "Añadir datos por autocompletado, facilita la introducción de datos"
+            "intelectual_comentarioexplicado": "(Añadir datos por autocompletado, facilita la introducción de datos)"
         },
         "descripcion_barrera": "Facilitar que se autorellene el campo de texto",
         "sugerencia_resolver_barrera": "Utilizar el atributo de \"autocompletar\" para facilitar al usuario el contenido del campo. Más info, consultar: https:\/\/www.w3.org\/TR\/WCAG22\/#input-purposes",
