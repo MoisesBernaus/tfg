@@ -1,7 +1,17 @@
 <template>
   <div>
-    <presentacion/>
-    <modal/>
+    <header><html lang="es"/></header>
+    <main>
+      <div id="element1"></div>
+      <presentacion/>
+      <div id="element2"></div>
+      <sede/>
+      <div id="element3"></div>
+      <contacto/>
+    </main>
+    <footer>
+      <peu-pag/>
+    </footer>
  </div>
 </template>
 
@@ -9,13 +19,19 @@
 import NavBar from '../components/NavBar'
 import Presentacion from '../components/Presentacion.vue'
 import Modal from '../components/Modal.vue'
+import Sede from '@/components/Sede.vue'
+import Contacto from '@/components/Contacto.vue'
+import PeuPag from '@/components/PeuPag.vue'
 
 export default {
   name: 'HomeView',
   components: {
     NavBar,
     Presentacion,
-    Modal
+    Modal,
+    Sede,
+    Contacto,
+    PeuPag
   }
 }
 </script>

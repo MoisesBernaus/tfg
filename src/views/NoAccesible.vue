@@ -1,30 +1,29 @@
 <template>
   <div>
     <div id="element1"></div>
-    <presentacion/>
+    <presentacion-no-ac/>
     <div id="element2"></div>
-    <sede/>
+    <sede-no-ac/>
     <div id="element3"></div>
-    <contacto/>
-    <modal/>
+    <contacto-no-ac/>
     <br/>
     <peu-pag/>
  </div>
 </template>
 
 <script>
-import Presentacion from '../components/Presentacion.vue'
-import Sede from '../components/Sede.vue'
-import Contacto from '../components/Contacto.vue'
+import PresentacionNoAc from '../components/PresentacionNoAc.vue'
+import SedeNoAc from '../components/SedeNoAc.vue'
+import ContactoNoAc from '../components/ContactoNoAc.vue'
 import Modal from '../components/Modal.vue'
 import PeuPag from '../components/PeuPag.vue'
 
 export default {
   name: 'AboutView',
   components: {
-    Presentacion,
-    Sede,
-    Contacto,
+    PresentacionNoAc,
+    SedeNoAc,
+    ContactoNoAc,
     Modal,
     PeuPag
   }

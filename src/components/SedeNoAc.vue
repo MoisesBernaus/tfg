@@ -11,15 +11,18 @@
       <iframe width="560" height="315" src="https://www.youtube.com/embed/gpRNFP64xQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </section>
     <div class="image"> 
-      <b-img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Lleida_-_La_Seu_Vella_%28des_de_Cappont%29.jpg" width="300" height="300" fluid alt="Imagen de Lleida con la Seu Vella de fondo"></b-img>
+      <b-img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Lleida_-_La_Seu_Vella_%28des_de_Cappont%29.jpg" width="300" height="300" fluid alt="" ></b-img>
       Lo que queremos hacer es colocar este texto al lado derecho de la imagen, algo así como se observa en periódicos o revistas.
     </div>
+    <modal :identificador="2"/>
     <hr>
   </div>
 </template>
 
 <script>
+import Modal from './Modal.vue'
 export default {
+  components: { Modal },
 }
 </script>
 

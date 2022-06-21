@@ -1,19 +1,19 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import HomeView from '../views/HomeView.vue'
+import Accesible from '../views/Accesible.vue'
 
 Vue.use(VueRouter)
 
 const routes = [
   {
     path: '/',
-    name: 'home',
-    component: HomeView
+    name: 'Accesible',
+    component: Accesible
   },
   {
-    path: '/about',
-    name: 'about',
-    component: () => import(/* webpackChunkName: "about" */ '../views/AboutView.vue')
+    path: '/noaccesible',
+    name: 'NoAccesible',
+    component: () => import(/* webpackChunkName: "about" */ '../views/NoAccesible.vue')
   }
 ]
 

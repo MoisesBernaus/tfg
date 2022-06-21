@@ -1,26 +1,31 @@
 <template>
   <div class="txt">
-    <b-button  id="show-btn" @click="showModal" ref="btnShow">Open Modal</b-button>
+    <b-button  id="show-btn" @click="showModal" ref="btnShow">Accesso Barrera</b-button>
     <b-modal ref="my-modal">
       <b-tabs content-class="mt-3">
-          <b-tab v-for="bar in barreras" :key="bar.titulo_barrera" :title = "bar.titulo_barrera" @click ="selectBarrier(bar)"></b-tab>
+        <b-tab v-for="bar in barreras" :key="bar.titulo_barrera" :title = "bar.titulo_barrera" @click ="selectBarrier(bar)"></b-tab>
       </b-tabs>
       <b-tabs content-class="mt-3">
-          <b-tab title="Cerezo">
-            <b-img src="../../img/image 33.jpg" height="130" width="130" fluid alt="Left image"></b-img>
-          </b-tab>
-          <b-tab title="Albert">
-            <b-img src="../../img/image 34.jpg" height="130" width="130" alt="Image 2"></b-img>
-          </b-tab>
-          <b-tab title="Joan">
-            <b-img src="../../img/image 35.jpg" height="130" width="130" alt="Image 3"></b-img>
-          </b-tab>
-          <b-tab title="Pau">
-            <b-img src="../../img/image 36.jpg" height="130" width="130" alt="Image 4"></b-img>
-          </b-tab>
-          <b-tab title="Silvia">
-            <b-img src="../../img/image 37.jpg" height="130" width="130" alt="Image 45"></b-img>
-          </b-tab>
+        <b-tab title="Cesar Cerezo">
+          <b-img :src="barrera.visual.visual_img" height="130" width="130" fluid alt=""></b-img>
+          {{barrera.visual.visual_comentario}}
+        </b-tab>
+        <b-tab title="Blas Blanco">
+          <b-img :src="barrera.bajavision.bajavision_img" height="130" width="130" alt="Image 2"></b-img>
+          {{barrera.bajavision.bajavision_comentario}}
+        </b-tab>
+        <b-tab title="Aurora Ausin">
+          <b-img :src="barrera.auditivo.auditivo_img" height="130" width="130" alt="Image 3"></b-img>
+          {{barrera.auditivo.auditivo_comentario}}
+        </b-tab>
+        <b-tab title="Miguel Mota">
+          <b-img :src="barrera.motriz.motriz_img" height="130" width="130" alt="Image 4"></b-img>
+          {{barrera.motriz.motriz_comentario}}
+        </b-tab>
+        <b-tab title="Oscar Coiba">
+          <b-img :src="barrera.intelectual.intelectual_img" height="130" width="130" alt="Image 45"></b-img>
+          {{barrera.intelectual.intelectual_comentario}}
+        </b-tab>
       </b-tabs>
         <div class="text">
           <hr>
@@ -46,7 +51,7 @@
   </div>
 </template>
 <script>
-import json from '../../public/Barreras2.json';
+import json from '../../public/BarrerasAWeb_FinalCompleto.json';
 export default {
   props: {  
    identificador: {
