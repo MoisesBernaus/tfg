@@ -1,6 +1,5 @@
 <template>
   <div>
-    <header><html lang="es"/></header>
     <main>
       <div id="element1"></div>
       <presentacion/>
@@ -16,9 +15,8 @@
 </template>
 
 <script>
-import NavBar from '../components/NavBar'
+
 import Presentacion from '../components/Presentacion.vue'
-import Modal from '../components/Modal.vue'
 import Sede from '@/components/Sede.vue'
 import Contacto from '@/components/Contacto.vue'
 import PeuPag from '@/components/PeuPag.vue'
@@ -26,12 +24,11 @@ import PeuPag from '@/components/PeuPag.vue'
 export default {
   name: 'HomeView',
   components: {
-    NavBar,
     Presentacion,
-    Modal,
     Sede,
     Contacto,
-    PeuPag
+    PeuPag,
+
   }
 }
 </script>

@@ -7,10 +7,10 @@
     </b-button-group>
   </b-row>
   <b-navbar toggleable="md" type="dark" variant="dark">
-    <b-navbar-brand><b-img src ="http://blocs.uib.cat/interaccion2018/files/2017/12/wlogoAIPO.png" href="http://www.udl.es/ca/" width="60" height="60"> </b-img></b-navbar-brand>
-    <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
+    <b-navbar-brand><b-img src ="https://aipo.es/wp-content/uploads/2020/10/logoaipo.jpg" href="https://aipo.es" width="60" height="60" alt="Icono de AIPO"> </b-img></b-navbar-brand>
+    <b-navbar-toggle target="nav-coll"></b-navbar-toggle>
       <b-container>
-        <b-collapse id="nav-collapse" is-nav>
+        <b-collapse id="nav-coll" is-nav>
           <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
           <b-navbar-nav>
               <b-nav-item @click="scrollInto('element1')">Presentación</b-nav-item>
@@ -38,7 +38,7 @@ export default {
 </script>
 
 <style>
-.txt {
+.txt{
   text-align: center;
 }
 </style>

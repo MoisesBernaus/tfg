@@ -12,6 +12,7 @@
 </template>
 
 <script>
+
 import PresentacionNoAc from '../components/PresentacionNoAc.vue'
 import SedeNoAc from '../components/SedeNoAc.vue'
 import ContactoNoAc from '../components/ContactoNoAc.vue'
@@ -19,13 +20,13 @@ import Modal from '../components/Modal.vue'
 import PeuPag from '../components/PeuPag.vue'
 
 export default {
-  name: 'AboutView',
+  name: 'NoAccesible',
   components: {
     PresentacionNoAc,
     SedeNoAc,
     ContactoNoAc,
     Modal,
-    PeuPag
+    PeuPag,
   }
 }
 </script>

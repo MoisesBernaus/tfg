@@ -8,12 +8,10 @@
       </p>
     </div>
     <section>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/gpRNFP64xQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/OFDr-_YKzSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </section>
-    <div class="image"> 
-      <b-img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Lleida_-_La_Seu_Vella_%28des_de_Cappont%29.jpg" width="300" height="300" fluid alt="" ></b-img>
-      Lo que queremos hacer es colocar este texto al lado derecho de la imagen, algo así como se observa en periódicos o revistas.
-    </div>
+   <b-img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Lleida_-_La_Seu_Vella_%28des_de_Cappont%29.jpg" width="300" height="300" fluid alt="Imagen de Lleida con la Seu Vella de fondo"></b-img>
+     <div class="text"><p>Lleida es una ciudad muy bien comunicada y situada en un entorno natural inigualable, lo que permite al visitante no sólo gozar de las comodidades y la cultura de la zona urbana sino que también permite realizar escapadas por su provincia y alrededores.</p></div>
     <modal :identificador="2"/>
     <hr>
   </div>

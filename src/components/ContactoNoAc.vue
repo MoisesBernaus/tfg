@@ -3,16 +3,13 @@
     <h1>Contacto</h1>
     <b-form @submit="onSubmit" @reset="onReset" v-if="show">
       <b-form-group
-        id="input-group-1"
-        label="Email:"
-        label-for="input-1"
-      >
+        id="input-group-1" label="Email:" label-for="input-1">
         <b-form-input
           id="input-1"
           v-model="form.email"
-          type="email"
-          placeholder="Email"
-          required
+          placeholder=""
+          type="text"
+
         ></b-form-input>
       </b-form-group>
 
@@ -20,8 +17,9 @@
         <b-form-input
           id="input-2"
           v-model="form.name"
-          placeholder="Nombre"
-          required
+          placeholder=""
+          type="text"
+
         ></b-form-input>
         <p></p> 
       </b-form-group>

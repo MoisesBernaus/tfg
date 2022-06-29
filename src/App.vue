@@ -26,10 +26,5 @@ export default {
   margin-top: 60px;
   background-color: black
 }
-/*html, body {
-    margin: 0;
-    padding: 0;
-    background-color:rgb(162, 148, 148);
-}*/
 
 </style>

@@ -48,8 +48,5 @@ export default {
 .NoAccesible{
   color:rgb(247, 59, 59);
 }
-.a{
-  text-decoration: none;
-  color: black;
-}
+
 </style>
